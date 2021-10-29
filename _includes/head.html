@@ -1,0 +1,6 @@
+<title>{{ site.title }}{% if page.title %}{{ - page.title }}{% endif %}</title>
+<meta name="description" content="{{ site.description }}" />
+
+{% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+{% endif %}

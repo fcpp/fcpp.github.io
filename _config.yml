@@ -1,0 +1,8 @@
+title: FCPP
+description: FieldCalc++, an efficient C++14 implementation of the Field Calculus
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
