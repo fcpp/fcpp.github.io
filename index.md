@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 picture: assets/static/logo.png
 ---
 

@@ -1,6 +1,4 @@
-<!-- Fixed navbar -->
 <div class="nav">
-  <a href="{{ site.url }}" class="inline-block btn{% if page.url == "/" %} btn-hover{% endif %}">Home</a>
   {% for my_page in site.pages %}
     {% if my_page.title %}
       <a href="{% if my_page.static_url %} {{my_page.static_url}} {% else %} {{ my_page.url | prepend: site.baseurl }} {% endif %}" class="inline-block btn{% if page.url == my_page.url %} btn-hover{% endif %}">{{ my_page.title }}</a>
