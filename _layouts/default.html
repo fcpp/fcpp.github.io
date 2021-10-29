@@ -20,7 +20,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">
         {% if page.picture %}
-          <img src="assets/static/logo.png" alt="{{ page.title | default: site.title }}" style="width:10%;height:10%;">
+          <img src="assets/static/logo.png" alt="{{ page.title | default: site.title }}" class="logo-img">
         {% else %}
           {{ page.title | default: site.title }}
         {% endif %}

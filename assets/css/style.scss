@@ -4,7 +4,12 @@
 @import 'jekyll-theme-cayman';
 
 .nav {
-    padding: 0rem;
+    padding: 0.1rem;
+}
+
+.logo-img {
+    width: 60%;
+    max-width: 240px;
 }
 
 .page-header {
