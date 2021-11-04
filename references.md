@@ -45,14 +45,14 @@ title: References
 
 #### Contributors
 
+- [Ferruccio Damiani](http://www.di.unito.it/~damiani)
 - [Luigi Rapetta](https://github.com/rapfamily4)
 - [Gianluca Torta](http://www.di.unito.it/~torta)
 
-#### Research group
+#### Research collaborators
 
 - [Jake Beal](https://jakebeal.github.io)
 - [Roberto Casadei](https://robertocasadei.github.io)
-- [Ferruccio Damiani](http://www.di.unito.it/~damiani)
 - [Soura Dasgupta](https://engineering.uiowa.edu/people/soura-dasgupta)
 - [Danilo Pianini](http://www.danilopianini.org)
 - [Mirko Viroli](https://apice.unibo.it/xwiki/bin/view/MirkoViroli)
