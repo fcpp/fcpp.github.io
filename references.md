@@ -8,8 +8,6 @@ title: References
 - **Presentation of FCPP**: <br/>
   G. Audrito. _FCPP: an Efficient and Extensible Field Calculus Framework_. IEEE International Conference on Autonomic Computing and Self-Organizing Systems, 2020.
   [10.1109/ACSOS49614.2020.00037](https://doi.org/10.1109/ACSOS49614.2020.00037).
-- **Presentation of the FCPP GUI**: <br/>
-  G. Audrito, L. Rapetta, G. Torta. _Extensible 3D Simulation of Aggregated Systems_. Preprint available [here](http://giorgio.audrito.info/static/fcpp-gui.pdf).
 
 ## Papers using FCPP for experiments
 
