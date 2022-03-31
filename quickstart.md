@@ -9,6 +9,7 @@ In order to get a preliminary and theoretical overview on the aggregate programm
 
 - [Introduction to aggregate programming](https://doi.org/10.1109/MC.2015.261)
 - [Presentation of FCPP](https://doi.org/10.1109/ACSOS49614.2020.00037)
+- [FCPP walkthrough video](https://www.youtube.com/watch?v=zWsNqJMVxKs)
 
 An introductory [video course](https://drive.google.com/drive/folders/1Cqdh2oOvWwCNUrHvgftbZCWqZcPUYA7c?usp=sharing) on these subjects is also available online (slides in English, presentations in Italian).
 
