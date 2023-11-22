@@ -70,12 +70,15 @@ Systems, 2022.
 
 - [Ferruccio Damiani](http://www.di.unito.it/~damiani)
 - [Luigi Rapetta](https://github.com/rapfamily4)
+- [Volker Stolz](https://selabhvl.github.io/vsto)
 - [Gianluca Torta](http://www.di.unito.it/~torta)
 
 #### Research collaborators
 
 - [Jake Beal](https://jakebeal.github.io)
+- [Daniele Bortoluzzi](https://www.linkedin.com/in/daniele-bortoluzzi-7a704363)
 - [Roberto Casadei](https://robertocasadei.github.io)
 - [Soura Dasgupta](https://engineering.uiowa.edu/people/soura-dasgupta)
 - [Danilo Pianini](http://www.danilopianini.org)
+- [Giordano Scarso](https://www.linkedin.com/in/giordano-scarso-44492b252)
 - [Mirko Viroli](https://apice.unibo.it/xwiki/bin/view/MirkoViroli)
