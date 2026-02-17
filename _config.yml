@@ -6,3 +6,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+header_pages:
+  - index.md
+  - quickstart/index.md
+  - references.md

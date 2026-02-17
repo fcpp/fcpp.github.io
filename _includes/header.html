@@ -1,6 +1,7 @@
 <div class="nav">
-  {% for my_page in site.pages %}
-    {% if my_page.title %}
+  {% for path in site.header_pages %}
+    {% assign my_page = site.pages | where: "path", path | first %}
+    {% if my_page %}
       <a href="{% if my_page.static_url %} {{my_page.static_url}} {% else %} {{ my_page.url | prepend: site.baseurl }} {% endif %}" class="inline-block btn{% if page.url == my_page.url %} btn-hover{% endif %}">{{ my_page.title }}</a>
     {% endif %}
   {% endfor %}

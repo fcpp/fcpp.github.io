@@ -5,13 +5,15 @@ title: Getting Started
 
 ## Overview on aggregate programming and FCPP
 
-In order to get a preliminary and theoretical overview on the aggregate programming paradigm and FCPP, several papers are listed in the [references page](./references.html), grouped by type and subject. In particular, a minimal suggested starting set is formed by the papers listed there as:
+In order to get a preliminary and theoretical overview on the aggregate programming paradigm and FCPP, several papers are listed in the [references page](/references.html), grouped by type and subject. In particular, a minimal suggested starting set is formed by the papers listed there as:
 
 - [Introduction to aggregate programming](https://doi.org/10.1109/MC.2015.261)
 - [Presentation of FCPP](https://doi.org/10.1109/ACSOS49614.2020.00037)
 - [FCPP walkthrough video](https://www.youtube.com/watch?v=zWsNqJMVxKs)
 
 An introductory [video course](https://drive.google.com/drive/folders/1Cqdh2oOvWwCNUrHvgftbZCWqZcPUYA7c?usp=sharing) on these subjects is also available online (slides in English, presentations in Italian).
+
+A tutorial on using FCPP specifically for distributed runtime verification is available [here](./tutorial-fm-2026.html).
 
 ## Quick start through the _Exercises_ project
 
