@@ -109,7 +109,7 @@ state of the storage memory of a node.
 
 ### Reference pastCTL table
 
-![reference](./assets/static/pastfcpp.png)
+![reference](../assets/static/pastfcpp.png)
 
 ## Notes {#notes}
 
