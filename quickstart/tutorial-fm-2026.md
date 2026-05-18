@@ -107,6 +107,10 @@ state of the storage memory of a node.
 
 ***
 
+### Reference pastCTL table
+
+![reference](./assets/static/pastfcpp.png)
+
 ## Notes {#notes}
 
 #### Windows
@@ -151,3 +155,9 @@ cd output
 
 Where the **textpath option** must contain the path to the folder containing the **pdflatex** executable
 installed by texlive.
+
+To build and run the examples on Windows an additional argument is needed execute the following command:
+
+```bash
+./make.sh windows drone_recognition
+```
