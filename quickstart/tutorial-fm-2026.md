@@ -86,7 +86,7 @@ simulations:
 To build and run the drone recognition example execute the following command:
 
 ```bash
-./make.sh drone_recognition
+./make.sh drones_recognition
 ```
 
 ### Running a simulation
@@ -159,5 +159,5 @@ installed by texlive.
 To build and run the examples on Windows an additional argument is needed execute the following command:
 
 ```bash
-./make.sh windows drone_recognition
+./make.sh windows drones_recognition
 ```
