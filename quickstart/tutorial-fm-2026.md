@@ -5,8 +5,6 @@ title: DRV Tutorial
 
 ## Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach
 
-**WORK IN PROGRESS**
-
 ### Installation
 
 The next sections contain the setup instructions based on the CMake build system for the various supported OSs. Jump to the section dedicated to your system of choice and ignore the others.
