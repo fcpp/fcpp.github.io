@@ -27,4 +27,4 @@ It currently supports:
 
 ## How?
 
-All you need to get started using FCPP is a C++ compiler and the CMake build system. Step-by-step tutorials are available to guide you familiarise with the paradigm: you can find them in the [getting started page](./quickstart.html).
+All you need to get started using FCPP is a C++ compiler and the CMake build system. Step-by-step tutorials are available to guide you familiarise with the paradigm: you can find them in the [getting started page](./quickstart/).
